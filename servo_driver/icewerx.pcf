@@ -1,0 +1,3 @@
+set_io clk P7
+set_io out A6
+set_io current_pos C6

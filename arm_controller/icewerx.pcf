@@ -1,0 +1,5 @@
+set_io clk P7
+set_io rx P8
+set_io servo_0_pwm A6
+set_io servo_1_pwm C6
+set_io servo_2_pwm D7

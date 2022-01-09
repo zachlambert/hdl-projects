@@ -1,0 +1,2 @@
+#!/bin/sh
+iverilog -o test.vvp tests/main_tb.v && vvp test.vvp

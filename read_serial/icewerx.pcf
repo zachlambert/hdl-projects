@@ -1,0 +1,7 @@
+set_io clk P9
+
+set_io rx L12
+set_io tx L14
+set_io led1 M4
+set_io led2 A5
+set_io debug1 K14
